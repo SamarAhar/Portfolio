@@ -1,10 +1,10 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://samar.vercel.app/" target="_blank">samar-ahar</a>
+  <a href="https://samarahar.vercel.app/" target="_blank">samar-ahar</a>
 </h2>
-<div align="center">
+<!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+</div> -->
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://samar.vercel.app/" target="_blank">samar.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://samarahar.vercel.app/" target="_blank">samar.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
