@@ -27,7 +27,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="StudyNotion"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="StudyNotion is a cutting-edge ed-tech platform designed to revolutionize the way students learn and instructors teach. With its seamless integration of the MERN stack, StudyNotion offers a dynamic and interactive learning experience. "
               ghLink="https://github.com/SamarAhar/StudyNotion"
               demoLink="https://study-notion-samar-ahar.vercel.app/"
             />
@@ -38,7 +38,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="My personal blog page built with Next.js and Tailwind CSS seamlessly integrates markdown files for easy content management and rendering. Additionally, it features responsive design and optimized performance for a smooth browsing experience."
               ghLink="https://github.com/SamarAhar/Bits-0f-C0de"
               demoLink="https://samarblogs.vercel.app/"
             />
@@ -48,10 +48,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Shopping Cart"
+              description="The shopping cart project is a dynamic web application developed using React.js, Redux, and Tailwind CSS. It serves as a virtual storefront where users can browse through a catalog of products, add items to their cart, and proceed to checkout seamlessly."
+              ghLink="https://github.com/SamarAhar/shopping-cart"
+              demoLink="https://shopping-cart-samarahar.vercel.app/"              
             />
           </Col>
         </Row>
