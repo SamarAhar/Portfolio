@@ -2,9 +2,9 @@
   Portfolio Website<br/>
   <a href="https://samarahar.vercel.app/" target="_blank">samar-ahar</a>
 </h2>
-<!-- <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div> -->
+<div align="center">
+  <img alt="Demo" src="./Images/readme.png" />
+</div>
 
 <br/>
 
